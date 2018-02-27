@@ -1,0 +1,14 @@
+user account uty
+
+login kaprodi:
+iwan.hartadi@staff.uty.ac.id
+110999025
+Login admin: 
+utypuskom@gmail.com
+123456789
+Login Humas: 
+humas@uty.ac.id 
+123456789
+Login Dekan: 
+ferida.yuamita@staff.uty.ac.id 
+110810054
